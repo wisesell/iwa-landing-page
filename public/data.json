@@ -1,0 +1,384 @@
+{
+  "company": {
+    "name": "Iwastech",
+    "tagline": "Transforming Business Through Technology",
+    "description": "We build innovative software solutions, provide cloud expertise, and deliver end-to-end development services to help your business thrive.",
+    "logo": "/images/iwastech_logo.jpeg",
+    "website": "https://iwastech.com",
+    "email": "support@iwastech.com",
+    "phone": "+1-123-456-7890",
+    "address": {
+      "street": "123 Tech Park, Innovation Street",
+      "city": "Digital City",
+      "state": "CA",
+      "zip": "12345",
+      "country": "USA"
+    },
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/iwastech",
+      "twitter": "https://x.com/Iwastech_",
+      "github": "https://github.com/wisesell",
+      "instagram": "https://www.instagram.com/iwastech"
+    }
+  },
+  "hero": {
+    "title": "Transforming Business Through Technology",
+    "subtitle": "We build innovative software solutions, provide cloud expertise, and deliver end-to-end development services to help your business thrive.",
+    "image": "/images/hero-image.svg",
+    "cta": [
+      {
+        "text": "Discover WiserSell",
+        "url": "#product",
+        "type": "primary"
+      },
+      {
+        "text": "Explore Our Services",
+        "url": "#services",
+        "type": "secondary"
+      }
+    ]
+  },
+  "specialOffer": {
+    "isActive": true,
+    "text": "Limited Time Offer: Get 20% off your first 3 months of WiserSell",
+    "buttonText": "Claim Offer",
+    "buttonUrl": "#demo",
+    "expiryDate": "2025-05-31"
+  },
+  "product": {
+    "name": "WiserSell",
+    "tagline": "Our flagship e-commerce integration platform that connects your business to customers everywhere",
+    "image": "/images/wisersell-dashboard.png",
+    "features": [
+      {
+        "title": "Seamless Integration",
+        "description": "Connect your e-commerce store with multiple marketplaces and platforms with just a few clicks"
+      },
+      {
+        "title": "Inventory Management",
+        "description": "Synchronize inventory across all your sales channels in real-time"
+      },
+      {
+        "title": "Order Processing",
+        "description": "Automate order fulfillment and shipping processes to save time and reduce errors"
+      },
+      {
+        "title": "Analytics Dashboard",
+        "description": "Gain valuable insights into your sales performance across all channels"
+      }
+    ],
+    "cta": {
+      "text": "Get a Demo",
+      "url": "#demo"
+    }
+  },
+  "statistics": [
+    {
+      "value": "40%",
+      "description": "Average increase in sales for WiserSell clients"
+    },
+    {
+      "value": "60%",
+      "description": "Reduction in infrastructure costs with our cloud solutions"
+    },
+    {
+      "value": "500+",
+      "description": "Successful projects delivered across 20+ countries"
+    },
+    {
+      "value": "98%",
+      "description": "Client satisfaction rate with ongoing support"
+    }
+  ],
+  "services": [
+    {
+      "title": "Cloud & DevOps",
+      "description": "Expert consultancy for cloud migration, infrastructure optimization, and CI/CD implementation",
+      "icon": "Cloud",
+      "features": [
+        "Cloud architecture design",
+        "Infrastructure as Code",
+        "Continuous Integration/Deployment",
+        "Kubernetes orchestration"
+      ]
+    },
+    {
+      "title": "Software Development",
+      "description": "End-to-end development of custom software solutions tailored to your business needs",
+      "icon": "Code",
+      "features": [
+        "Web application development",
+        "Mobile app development",
+        "API development & integration",
+        "Legacy system modernization"
+      ]
+    },
+    {
+      "title": "Ready-to-Start Projects",
+      "description": "Pre-packaged software solutions that can be quickly customized and deployed",
+      "icon": "LayoutGrid",
+      "features": [
+        "E-commerce platforms",
+        "CRM systems",
+        "Business intelligence dashboards",
+        "Content management systems"
+      ]
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "title": "Rapid Implementation",
+      "description": "Our solutions can be deployed in weeks, not months, getting you to market faster",
+      "icon": "Zap"
+    },
+    {
+      "title": "Industry Expertise",
+      "description": "Our team brings decades of combined experience across multiple industries",
+      "icon": "Award"
+    },
+    {
+      "title": "Scalable Solutions",
+      "description": "Our technology grows with your business, from startup to enterprise",
+      "icon": "TrendingUp"
+    },
+    {
+      "title": "Security First",
+      "description": "Enterprise-grade security built into every solution we deliver",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "Dedicated Support",
+      "description": "24/7 support from a team that knows your business and technology",
+      "icon": "Users"
+    },
+    {
+      "title": "Data-Driven Approach",
+      "description": "We use analytics to continuously improve and optimize your solutions",
+      "icon": "BarChart3"
+    }
+  ],
+  "team": [
+    {
+      "role": "Full Stack Developers",
+      "description": "Experts in both frontend and backend technologies who build robust, scalable applications",
+      "icon": "Code"
+    },
+    {
+      "role": "Cloud & DevOps Specialists",
+      "description": "Infrastructure experts who ensure your applications run efficiently and securely in the cloud",
+      "icon": "Server"
+    },
+    {
+      "role": "QA Testers",
+      "description": "Quality assurance professionals who ensure your software meets the highest standards",
+      "icon": "ShieldCheck"
+    },
+    {
+      "role": "Project Managers",
+      "description": "Experienced leaders who ensure your projects are delivered on time and within budget",
+      "icon": "Users"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "WiserSell transformed our e-commerce operations. We've seen a 40% increase in sales since implementing their platform. The integration was seamless and their support team is exceptional.",
+      "author": {
+        "name": "Sarah Johnson",
+        "position": "E-Commerce Director",
+        "company": "RetailPlus",
+        "image": "/images/testimonials/sarah-johnson.jpg"
+      },
+      "rating": 5
+    },
+    {
+      "quote": "Their cloud migration expertise saved us countless hours and significantly reduced our infrastructure costs. The team's technical knowledge and professionalism exceeded our expectations.",
+      "author": {
+        "name": "Michael Chen",
+        "position": "CTO",
+        "company": "TechInnovate",
+        "image": "/images/testimonials/michael-chen.jpg"
+      },
+      "rating": 5
+    },
+    {
+      "quote": "We needed a custom CRM solution fast, and their team delivered beyond our expectations. The ready-to-start project approach saved us months of development time while still giving us the customization we needed.",
+      "author": {
+        "name": "Emily Rodriguez",
+        "position": "Operations Manager",
+        "company": "GlobalServe",
+        "image": "/images/testimonials/emily-rodriguez.jpg"
+      },
+      "rating": 5
+    }
+  ],
+  "partners": [
+    {
+      "name": "AWS Partner",
+      "logo": "/images/partners/aws.svg",
+      "url": "https://aws.amazon.com/partners/"
+    },
+    {
+      "name": "Microsoft Partner",
+      "logo": "/images/partners/microsoft.svg",
+      "url": "https://partner.microsoft.com/"
+    },
+    {
+      "name": "Google Cloud Partner",
+      "logo": "/images/partners/google-cloud.svg",
+      "url": "https://cloud.google.com/partners/"
+    },
+    {
+      "name": "ISO 27001 Certified",
+      "logo": "/images/partners/iso-27001.svg",
+      "url": "#"
+    },
+    {
+      "name": "PCI DSS Compliant",
+      "logo": "/images/partners/pci-dss.svg",
+      "url": "#"
+    }
+  ],
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions or ready to start your next project? Contact us today.",
+    "email": "support@iwastech.com",
+    "phone": "+1-123-456-7890",
+    "address": "123 Tech Park, Innovation Street, Digital City",
+    "formFields": [
+      {
+        "id": "name",
+        "label": "Name",
+        "type": "text",
+        "placeholder": "Enter your name",
+        "required": true
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "type": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "id": "message",
+        "label": "Message",
+        "type": "textarea",
+        "placeholder": "Enter your message",
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "Send Message"
+    }
+  },
+  "demo": {
+    "title": "Request a Demo",
+    "subtitle": "See how our solutions can work for your business",
+    "formFields": [
+      {
+        "id": "name",
+        "label": "Name",
+        "type": "text",
+        "placeholder": "Enter your name",
+        "required": true
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "type": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "id": "company",
+        "label": "Company",
+        "type": "text",
+        "placeholder": "Enter your company name",
+        "required": true
+      },
+      {
+        "id": "interest",
+        "label": "I'm interested in",
+        "type": "select",
+        "options": [
+          {
+            "value": "wisersell",
+            "label": "WiserSell E-commerce Solution"
+          },
+          {
+            "value": "cloud",
+            "label": "Cloud & DevOps Consultancy"
+          },
+          {
+            "value": "software",
+            "label": "Custom Software Development"
+          },
+          {
+            "value": "ready",
+            "label": "Ready-to-Start Projects"
+          }
+        ],
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "Request Demo"
+    }
+  },
+  "newsletter": {
+    "title": "Stay Updated",
+    "subtitle": "Subscribe to our newsletter for the latest industry insights and company updates",
+    "placeholder": "Enter your email",
+    "buttonText": "Subscribe",
+    "privacyText": "We respect your privacy. Unsubscribe at any time."
+  },
+  "footer": {
+    "copyright": "© 2025 Iwastech. All rights reserved.",
+    "links": [
+      {
+        "text": "Privacy Policy",
+        "url": "/privacy-policy"
+      },
+      {
+        "text": "Terms of Service",
+        "url": "/terms-of-service"
+      }
+    ]
+  },
+  "navigation": [
+    {
+      "text": "WiserSell",
+      "url": "#product"
+    },
+    {
+      "text": "Services",
+      "url": "#services"
+    },
+    {
+      "text": "Our Team",
+      "url": "#team"
+    },
+    {
+      "text": "Blog",
+      "url": "#blog"
+    },
+    {
+      "text": "Contact",
+      "url": "#contact"
+    }
+  ],
+  "seo": {
+    "title": "Iwastech | E-commerce Integration & Cloud Solutions",
+    "description": "Iwastech provides e-commerce integration with WiserSell, cloud & DevOps consultancy, and custom software development services to help businesses grow.",
+    "keywords": [
+      "e-commerce integration",
+      "WiserSell",
+      "cloud consultancy",
+      "DevOps",
+      "software development",
+      "IT services"
+    ],
+    "ogImage": "/images/og-image.jpg",
+    "twitterImage": "/images/twitter-image.jpg"
+  }
+}
